@@ -1,5 +1,5 @@
 ### <h1 align="center">Hi 👋, I'm Anushka Shriyam</h1>
-<h3 align="center">A young tech aspirant learning different fields of technologies and different languages including C, HTML, pyhton, Java and android app development. An ardent by nature who loves to learn new things and is always ready to face new challenges in the journey of life. At present, pursuing a Bachelor’s Degree in Information Technology.</h3>
+<h3 align="center">A young tech aspirant learning different fields of technologies and different languages including C,  pyhton, Java and android app development. An ardent by nature who loves to learn new things and is always ready to face new challenges in the journey of life. At present, pursuing a Bachelor’s Degree in Information Technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushka530&label=Profile%20views&color=0e75b6&style=flat" alt="anushka530" /> </p>
 
