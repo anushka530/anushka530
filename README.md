@@ -5,8 +5,6 @@
 
 
 
-- 🔭 I’m currently working on **contributing to open source projects**
-
 - 📫 How to reach me **anushka052001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
