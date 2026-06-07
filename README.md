@@ -1,7 +1,7 @@
  <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Anushka%20Shriyam&subtitle=Backend%20Developer%20|%20Java,%20Spring%20Boot%20%26%20Microservices&fontSize=40&subFontSize=20&animation=fadeIn" width="100%" />
-</div> 
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=210&section=header&text=Anushka%20Shriyam&subtitle=Software%20Engineer%20%7C%20Java%20%26%20Spring%20Boot&fontSize=40&subFontSize=20&animation=fadeIn" width="100%" />
+</div>
+---
 # Hi there, I'm Anushka! 👋
 
 Passionate Backend Engineer focused on building robust, scalable, and high-performance server-side applications. Experienced in developing enterprise-grade systems using Java, the Spring Ecosystem, and distributed messaging platforms like Apache Kafka.
