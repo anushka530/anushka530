@@ -34,15 +34,6 @@ Passionate Backend Engineer focused on building robust, scalable, and high-perfo
 
 ---
 
-### 📊 My GitHub Ecosystem
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushka530&show_icons=true&theme=dark&hide_border=true&align=center" alt="Anushka's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka530&layout=compact&theme=dark&hide_border=true&align=center" alt="Top Langs" width="48%" />
-</div>
-
----
-
 ### 📫 Let's Connect!
 - 💼 **LinkedIn:** https://www.linkedin.com/in/anushkas25/
 - ✉️ **Email:** anushka052001@gmail.com
