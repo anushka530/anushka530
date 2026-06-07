@@ -22,7 +22,7 @@ Passionate Backend Engineer focused on building robust, scalable, and high-perfo
 ### 🚀 Highlighted Projects
 
 #### 🛒 [SpringBoot-Ecommerce-Application](https://github.com/anushka530/SpringBoot-Ecommerce-Application)
-*A comprehensive e-commerce backend built using Spring Boot and Microservices architecture.*
+*A comprehensive e-commerce backend built using Spring Boot*
 - Implemented secure user authentication and authorization using **Spring Security**.
 - Managed relational data mapping seamlessly with **Spring Data JPA** and MySQL.
 - Designed clean RESTful APIs for product catalogs, cart management, and order processing.
