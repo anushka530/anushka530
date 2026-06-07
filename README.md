@@ -1,5 +1,8 @@
-# Hi there, I'm Anushka Shriyam! 👋
-### Backend Developer | Java, Spring Boot & Microservices Specialist
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Anushka%20Shriyam&subtitle=Backend%20Developer%20|%20Java,%20Spring%20Boot%20%26%20Microservices&fontSize=40&subFontSize=20&animation=fadeIn" width="100%" />
+</div>
+
+# Hi there, I'm Anushka! 👋
 
 Passionate Backend Engineer focused on building robust, scalable, and high-performance server-side applications. Experienced in developing enterprise-grade systems using Java, the Spring Ecosystem, and distributed messaging platforms like Apache Kafka.
 
@@ -7,11 +10,12 @@ Passionate Backend Engineer focused on building robust, scalable, and high-perfo
 
 ### 🛠️ Tech Stack & Expertise
 
-- **Languages:** Java (Core & Advanced), C#, SQL
-- **Frameworks:** Spring Boot, Spring MVC, Spring Security, Spring Data JPA, .NET Core
-- **Architecture & Ecosystem:** Microservices, RESTful APIs, Event-Driven Architecture
-- **Messaging & Databases:** Apache Kafka, MySQL, PostgreSQL
-- **Tools & DevOps:** Git, GitHub, Docker, Maven
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%234169E1.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
+| **Frameworks** | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white) ![.NET Core](https://img.shields.io/badge/.NET%20Core-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white) |
+| **Messaging & DBs** | ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Tools & DevOps** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Maven](https://img.shields.io/badge/Apache%20Maven-%23C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white) |
 
 ---
 
@@ -32,11 +36,13 @@ Passionate Backend Engineer focused on building robust, scalable, and high-perfo
 
 ### 📊 My GitHub Ecosystem
 
-![Anushka's GitHub stats](https://github-readme-stats.vercel.app/api?username=anushka530&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anushka530&layout=compact&theme=dark&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anushka530&show_icons=true&theme=dark&hide_border=true&align=center" alt="Anushka's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka530&layout=compact&theme=dark&hide_border=true&align=center" alt="Top Langs" width="48%" />
+</div>
 
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** https://www.linkedin.com/in/anushkas25/
-- **Email:** anushka052001@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/anushkas25/
+- ✉️ **Email:** anushka052001@gmail.com
