@@ -1,5 +1,8 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Anushka%20Shriyam&subtitle=Backend%20Developer%20|%20Java,%20Spring%20Boot%20%26%20Microservices&fontSize=40&subFontSize=20&animation=fadeIn" width="100%" />
+</div> -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=220&section=header&text=Anushka%20Shriyam&subtitle=Software%20Developer%20%7C%20Java%20%26%20Spring%20Boot&fontSize=38&subFontSize=18&fontColor=f8fafc&subFontColor=94a3b8&desc=Building%20scalable%20backend%20systems&descSize=14&descAlignY=75" width="100%" alt="Anushka Shriyam - Software Developer" />
 </div>
 
 # Hi there, I'm Anushka! 👋
